@@ -5,7 +5,7 @@
 
 ## Teil des Moduls Hydrogeologie: Hydraulik & Isotope (Profil Hydro- und Ingenieurgeologie) im Studiengang Angewandte Geowissenschaften des Karlsruher Instituts für Technologie (KIT)
 
-Für allgemeine Kursinformationen siehe [KIT Campus Management für Studierende](https://campus.studium.kit.edu/events/catalog.php#!campus/all/event.asp?gguid=0x62B6626C99FA4F62941EAD8FD5C2542E)
+Für allgemeine Kursinformationen siehe [KIT Campus Management für Studierende](https://campus.kit.edu/campus/lecturer/event.asp?gguid=0xD76D63046EDB4D6E9ADC2339390F9B3E)
 
 Für detaillierte Kursinformationen siehe [KIT ILIAS](https://ilias.studium.kit.edu/goto.php/crs/2922923)
 
